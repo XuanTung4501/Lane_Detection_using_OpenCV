@@ -2,7 +2,7 @@
 
 ## Install
 ```bash
-git clone
+git clone https://github.com/XuanTung4501/Lane_Detection_using_OpenCV.git
 cd Lane_Detection_using_OpenCV
 
 # install dependencies
